@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=interest
+comment1.params=p\ r\ t
+comment1.target=void\ result(double,\ double,\ double)
+comment2.params=p\ r\ t
+comment2.target=void\ simpleInterest(double,\ double,\ double)
+comment3.params=p\ r\ t
+comment3.target=void\ main(double,\ double,\ double)
+numComments=4

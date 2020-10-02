@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Employee2
+comment1.params=d\ r
+comment1.target=void\ Sal_Data(int,\ double)
+comment2.params=
+comment2.target=double\ compute_sal()
+comment3.params=a\ b
+comment3.target=void\ main(int,\ int)
+numComments=4
